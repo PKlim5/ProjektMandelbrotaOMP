@@ -1,0 +1,4 @@
+C:\Users\przem\Desktop\RownoleglyProjekt\ProjektMandelbrota\x64\Debug\ProjektMandelbrota.exe
+C:\Users\przem\Desktop\RownoleglyProjekt\ProjektMandelbrotaMPI\x64\Debug\ProjektMandelbrota.exe
+C:\Users\przem\Desktop\RownoleglyProjekt\ProjektMandelbrotaOMP\x64\Debug\ProjektMandelbrota.exe
+C:\Users\przem\Desktop\Projekty\Żuk Mandelbrota\ProjektMandelbrotaOMP\x64\Debug\ProjektMandelbrota.exe
